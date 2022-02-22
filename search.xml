@@ -4,32 +4,6 @@
   
     
     <entry>
-      <title>About</title>
-      <link href="article/74350de7.html"/>
-      <url>article/74350de7.html</url>
-      
-        <content type="html"><![CDATA[<p>个人简介</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Gallery</title>
-      <link href="article/889641a6.html"/>
-      <url>article/889641a6.html</url>
-      
-        <content type="html"><![CDATA[    <div      class="gallery-item"      style="background-image: url('https://img.yuangaokun.com/cloud/20220202/images-1.jpg')"      data-title="melody"      data-url="https://img.yuangaokun.com/cloud/20220202/images-1.jpg"    >      <div class="gallery-item__title">        melody      </div>    </div>      <div      class="gallery-item"      style="background-image: url('https://img.yuangaokun.com/cloud/20220202/images-2.jpg')"      data-title="background"      data-url="https://img.yuangaokun.com/cloud/20220202/images-2.jpg"    >      <div class="gallery-item__title">        background      </div>    </div>      <div      class="gallery-item"      style="background-image: url('https://img.yuangaokun.com/cloud/20220202/images-3.jpg')"      data-title="demo1"      data-url="https://img.yuangaokun.com/cloud/20220202/images-3.jpg"    >      <div class="gallery-item__title">        demo1      </div>    </div>      <div      class="gallery-item"      style="background-image: url('https://img.yuangaokun.com/cloud/20220202/images-4.jpg')"      data-title="demo2"      data-url="https://img.yuangaokun.com/cloud/20220202/images-4.jpg"    >      <div class="gallery-item__title">        demo2      </div>    </div>      <div      class="gallery-item"      style="background-image: url('https://img.yuangaokun.com/cloud/20220202/images-5.jpg')"      data-title="demo3"      data-url="https://img.yuangaokun.com/cloud/20220202/images-5.jpg"    >      <div class="gallery-item__title">        demo3      </div>    </div>      <div      class="gallery-item"      style="background-image: url('https://img.yuangaokun.com/cloud/20220202/images-6.jpg')"      data-title="No title"      data-url="https://img.yuangaokun.com/cloud/20220202/images-6.jpg"    >      <div class="gallery-item__title">        No title      </div>    </div>  ]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="article/4a17b156.html"/>
       <url>article/4a17b156.html</url>
