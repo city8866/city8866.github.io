@@ -5,8 +5,8 @@
     
     <entry>
       <title>Gallery</title>
-      <link href="p/4a1723.html"/>
-      <url>p/4a1723.html</url>
+      <link href="article/4a1723.html"/>
+      <url>article/4a1723.html</url>
       
         <content type="html"><![CDATA[    <div      class="gallery-item"      style="background-image: url('https://ws1.sinaimg.cn/large/8700af19gy1fp5i6o2vghj20ea0eajse')"      data-title="melody"      data-url="https://ws1.sinaimg.cn/large/8700af19gy1fp5i6o2vghj20ea0eajse"    >      <div class="gallery-item__title">        melody      </div>    </div>      <div      class="gallery-item"      style="background-image: url('https://user-images.githubusercontent.com/12621342/37325500-23e8f77c-26c9-11e8-8e24-eb4346f1fff5.png')"      data-title="background"      data-url="https://user-images.githubusercontent.com/12621342/37325500-23e8f77c-26c9-11e8-8e24-eb4346f1fff5.png"    >      <div class="gallery-item__title">        background      </div>    </div>      <div      class="gallery-item"      style="background-image: url('https://ws1.sinaimg.cn/large/8700af19gy1fp5i64zaxqj20b40b474b')"      data-title="demo1"      data-url="https://ws1.sinaimg.cn/large/8700af19gy1fp5i64zaxqj20b40b474b"    >      <div class="gallery-item__title">        demo1      </div>    </div>      <div      class="gallery-item"      style="background-image: url('https://ws1.sinaimg.cn/large/8700af19ly1fn2h26q32uj21120kudqq')"      data-title="demo2"      data-url="https://ws1.sinaimg.cn/large/8700af19ly1fn2h26q32uj21120kudqq"    >      <div class="gallery-item__title">        demo2      </div>    </div>      <div      class="gallery-item"      style="background-image: url('https://ws1.sinaimg.cn/large/8700af19ly1fnhdaimi40j218g0p0dic')"      data-title="demo3"      data-url="https://ws1.sinaimg.cn/large/8700af19ly1fnhdaimi40j218g0p0dic"    >      <div class="gallery-item__title">        demo3      </div>    </div>      <div      class="gallery-item"      style="background-image: url('https://ws1.sinaimg.cn/large/8700af19ly1fn2i5kjh2pj21120kuncd')"      data-title="No title"      data-url="https://ws1.sinaimg.cn/large/8700af19ly1fn2i5kjh2pj21120kuncd"    >      <div class="gallery-item__title">        No title      </div>    </div>  ]]></content>
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="p/4a17b156.html"/>
-      <url>p/4a17b156.html</url>
+      <link href="article/4a17b156.html"/>
+      <url>article/4a17b156.html</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h1 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h1><h2 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h2 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h2 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h2 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
@@ -47,8 +47,8 @@
     
     <entry>
       <title>开工大吉</title>
-      <link href="p/4a17b157.html"/>
-      <url>p/4a17b157.html</url>
+      <link href="article/4a17b157.html"/>
+      <url>article/4a17b157.html</url>
       
         <content type="html"><![CDATA[<p>开工大吉，大吉大利</p>]]></content>
       
